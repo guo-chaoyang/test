@@ -39,10 +39,10 @@ int lengthOfLongestSubstring(char *s)
 }
 
 // 测试函数
-int main()
-{
-    char s[] = "abcabcbb";
-    int result = lengthOfLongestSubstring(s);
-    printf("最长无重复子串的长度是: %d\n", result); // 输出应为 3
-    return 0;
-}
+// int main()
+// {
+//     char s[] = "abcabcbb";
+//     int result = lengthOfLongestSubstring(s);
+//     printf("最长无重复子串的长度是: %d\n", result); // 输出应为 3
+//     return 0;
+// }
