@@ -38,6 +38,11 @@ int lengthOfLongestSubstring(char *s)
     return maxLength;
 }
 
+void apple()
+{
+    printf("apple");
+}
+
 // 测试函数
 // int main()
 // {
